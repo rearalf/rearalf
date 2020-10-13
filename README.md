@@ -13,8 +13,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearalf&theme=algolia" align="right" height="200px" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearalf&theme=algolia" align="right" height="300px" width="45%" />
 
+<br />
 <br />
 <br />
 
