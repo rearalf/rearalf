@@ -13,8 +13,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearalf&layout=compact&theme=algolia" align="right" height="175px" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearalf&theme=algolia" align="right" height="200px" width="45%" />
 
+<br />
 <br />
 
 - 🌱 I’m currently learning: **React, Next.js**
