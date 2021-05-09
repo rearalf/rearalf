@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <a href="https://twitter.com/ricardoalfar"><img src="https://img.shields.io/twitter/follow/@rear_alf?style=social" /></a>
+  <a href="https://twitter.com/rear_alf"><img src="https://img.shields.io/twitter/follow/@rear_alf?style=social" /></a>
   <a href="https://github.com/rearalf"><img src="https://img.shields.io/github/followers/rearalf?label=follow&style=social" /></a>
 </p>
 
