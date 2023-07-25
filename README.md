@@ -5,12 +5,10 @@
 </div>
 
 <br />
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/rear_alf"><img src="https://img.shields.io/twitter/follow/rear_alf?style=social" /></a>
   <a href="https://github.com/rearalf"><img src="https://img.shields.io/github/followers/rearalf?label=follow&style=social" /></a>
-</p>
-
-<br />
+</p> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rearalf&theme=algolia" align="right" height="300px" width="45%" />
 
